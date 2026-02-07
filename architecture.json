@@ -1,0 +1,160 @@
+{
+  "book_id": "indigenous_resurgence_absurdist_individual_collective",
+  "title": "The Unauthorized Biography of a Ghost Bear",
+  "tagline": "When they came to re-zone the stories, one man decided to become an unscheduled variable.",
+  "target_words": 70000,
+  "actual_words": 72367,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Bureaucratic Extraction of Myth",
+    "Resistance as a Personal Absurdity",
+    "The Ghost in the Corporate Machine",
+    "Reclaiming Narrative Sovereignty"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Bear with a Clipboard",
+      "words": 3015
+    },
+    {
+      "ch": 2,
+      "title": "The Tall Man and the Grievance Form",
+      "words": 3015
+    },
+    {
+      "ch": 3,
+      "title": "The Kiosk of Gentle Lines",
+      "words": 3015
+    },
+    {
+      "ch": 4,
+      "title": "The Council of Discerning Unemployed",
+      "words": 3015
+    },
+    {
+      "ch": 5,
+      "title": "Core Sample of a Laugh",
+      "words": 3015
+    },
+    {
+      "ch": 6,
+      "title": "Protocol for a Haunting",
+      "words": 3015
+    },
+    {
+      "ch": 7,
+      "title": "The Siphon's Whine",
+      "words": 3015
+    },
+    {
+      "ch": 8,
+      "title": "Lorna's Stubborn Garden",
+      "words": 3015
+    },
+    {
+      "ch": 9,
+      "title": "Subsection 4, Entity Liaison",
+      "words": 3015
+    },
+    {
+      "ch": 10,
+      "title": "Asset: Unrealized Tragedy",
+      "words": 3015
+    },
+    {
+      "ch": 11,
+      "title": "The Weakening: A Timeline",
+      "words": 3015
+    },
+    {
+      "ch": 12,
+      "title": "FINAL CHAPTER",
+      "words": 3015
+    },
+    {
+      "ch": 13,
+      "title": "Soft-Security Incident Report",
+      "words": 3015
+    },
+    {
+      "ch": 14,
+      "title": "Boutique Melancholy",
+      "words": 3015
+    },
+    {
+      "ch": 15,
+      "title": "The Baseball Bat Ceremony",
+      "words": 3015
+    },
+    {
+      "ch": 16,
+      "title": "A Spectral Bruin's Quota",
+      "words": 3015
+    },
+    {
+      "ch": 17,
+      "title": "Poking the World's Skin",
+      "words": 3015
+    },
+    {
+      "ch": 18,
+      "title": "The Right-of-Way Home",
+      "words": 3015
+    },
+    {
+      "ch": 19,
+      "title": "Narrative Lubricant",
+      "words": 3015
+    },
+    {
+      "ch": 20,
+      "title": "The Men Who Didn't Ask",
+      "words": 3015
+    },
+    {
+      "ch": 21,
+      "title": "Discerning Is Not an Approved Land Use",
+      "words": 3015
+    },
+    {
+      "ch": 22,
+      "title": "The Jay's Final Shriek",
+      "words": 3015
+    },
+    {
+      "ch": 23,
+      "title": "Harvesting Potential",
+      "words": 3015
+    },
+    {
+      "ch": 24,
+      "title": "The Paperwork Nightmare",
+      "words": 3017
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a mundane household object becomes a 'calibrated ethnospheric siphon.'",
+      "Create the internal memo from INTER-DIMENSIONAL RESOURCE ALLIANCE announcing the 'Kitchee Gumee Re-zoning Project.'",
+      "Write the 'Standardized Spectral Bruin Unit' employee manual section on 'Client Relations & Perimeter Soft-Security.'",
+      "Draft the text and choose the image for the next kiosk screen the company installs after Moses's act of defiance."
+    ],
+    "technical": [
+      "Build a 'Narrative Re-zoning' interactive map that visualizes the extraction of 'latent mythic potential' from a landscape.",
+      "Design a generative art piece that represents the 'pale yellow thread of a forgotten memory' being siphoned from the ground."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Thomas King",
+      "Franz Kafka",
+      "Leanne Betasamosake Simpson",
+      "Kurt Vonnegut"
+    ]
+  },
+  "cover_prompt": "A solitary man in a worn suit and tie, meticulously stapling pages of ancient forest maps and corporate zoning permits to the trunk of a giant, mythic cedar tree, his expression one of serene, absurd determination, [Detailed Scene & Context: within a mist-shrouded old-growth forest where spectral, translucent forms of a giant bear and other forest spirits weave between the trees, while in the blurred background, the sterile yellow lights of construction vehicles and survey crews are held at bay by an invisible barrier], [Artistic Style & Medium: in the atmospheric, symbolic, and textural style of a contemporary painter like Kent Monkman or Alexis Rockman, blending magical realism with sharp social commentary, using oil on canvas with visible brushwork and layered glazes], [Composition & Camera: book cover framing, a centered and slightly low-angle composition that empowers the subject, creating a vertical divide between the vibrant, living myth on the left and the cold, bureaucratic incursion on the right], [Lighting & Color Palette: dramatic chiaroscuro lighting where ethereal, bioluminescent blues and mossy greens emanate from the spirits, contrasting with the harsh, fluorescent yellows and grays of the distant machinery, all under a twilight canopy], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
