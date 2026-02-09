@@ -2,7 +2,9 @@
 
 ## CHAPTER 1
 
-The bear was a bad sign. Not because it was a bear—bears are normal, bears are relatives—but because it was wearing a tiny, perfectly-fitted hard hat and standing upright in the middle of the gravel service road, reading a clipboard.
+Kai’s official tribal designation was “Unreliable Narrator.” This was printed, in faint bureaucratic ink, on the band of his government-issued moccasins. He was currently using them to stomp a perfect circle into the community garden’s prize squash, chanting a personal manifesto about the tyranny of zucchini. The Elders watched, not unkindly, making bets on how long before he remembered the circle was a collective symbol.
+
+
 
 Moses Two Rivers stopped his rust-eaten pickup ten yards away. The engine coughed, then died of its own accord, as if out of respect. The bear looked up. It had the weary, bureaucratic expression of a mid-level project manager three years from retirement.
 
